@@ -14,6 +14,7 @@ public class TestDemo {
         duck.eat();
         System.out.println("修改啦啦啦啦");
         System.out.println("分支1，修改啦啦啦");
+        System.out.println("主分支！！！！");
     }
 }
 
