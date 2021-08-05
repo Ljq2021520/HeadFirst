@@ -24,7 +24,7 @@ public class TestDemo {
         System.out.println("hot-fix2-3");
         System.out.println("修改啦啦啦啦");
         System.out.println("修改远程库信息");
-
+        System.out.println("远程xiugai自己库信息");
     }
 }
 
