@@ -12,6 +12,8 @@ public class TestDemo {
         duck.fly();
         duck.quack();
         duck.eat();
+        System.out.println("修改啦啦啦啦");
+
     }
 }
 
